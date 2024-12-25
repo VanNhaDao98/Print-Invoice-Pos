@@ -2,7 +2,7 @@
 
 Use StreamSocket - TCP
 
-        // connect printer
+connect printer
         
 //        PrintManage.shared.connect(printer: .init(host: "host", port: 0101)) { result in
 //            switch result {
@@ -13,13 +13,13 @@ Use StreamSocket - TCP
 //            }
 //        }
         
-        // disconnect printer
+ disconnect printer
         
 //        PrintManage.shared.disconnect(completion: { _ in })
         
-        // print invoice POS
+ print invoice POS
         
-        // Supports 3 types - Image - String - Data
+ Supports 3 types - Image - String - Data
         
 //        public enum PrintData {
 //            case image(UIImage)
